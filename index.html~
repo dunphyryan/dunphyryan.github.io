@@ -108,7 +108,7 @@
 			<div class="container">
 				<div class="fh5co-text-wrap animate-box">
 					<div class="fh5co-intro-text">
-						<h1>I&acute;m UI/UX Web Designer based <span>in</span> Fairhope, AL</h1>
+						<h1>I&acute;m a Web Designer based <span>in</span> Fairhope, AL</h1>
 						<h2>ryan-dunphy.com</a></h2>
 					</div>
 				</div>
@@ -135,7 +135,7 @@
 					<div class="fh5co-text col-md-4 animate-box">
 						<h2>Fairhope PC</h2>
 						<p>Custom built to work with Fairhope PC's CRM, Fairhopepc.com is fast and easy to navigate.</p>
-						<p><a href="work_1.html" class="btn btn-light btn-outline transition">View Project</a></p>
+						<p><a href="https://fairhopepc.com" class="btn btn-light btn-outline transition">View Project</a></p>
 					</div>
 				</div>
 
@@ -156,7 +156,7 @@
 					<div class="fh5co-text col-md-4 col-md-pull-8 animate-box">
 						<h2>SCORE Alabama</h2>
 						<p>Features a registration form and online classes.</p>
-						<p><a href="work_1.html" class="btn btn-light btn-outline transition">View Project</a></p>
+						<p><a href="https://scorealabama.com" class="btn btn-light btn-outline transition">View Project</a></p>
 					</div>
 				</div>
 
@@ -178,7 +178,7 @@
 					<div class="fh5co-text col-md-4 animate-box">
 						<h2>Alive with Adwiti</h2>
 						<p>All of my websites are search engine friendly.</p>
-						<p><a href="work_1.html" class="btn btn-light btn-outline transition">View Project</a></p>
+						<p><a href="https://alivewithadwiti.com" class="btn btn-light btn-outline transition">View Project</a></p>
 					</div>
 				</div>
 
@@ -222,6 +222,26 @@
 						<p><a href="work_1.html" class="btn btn-light btn-outline transition">View Project</a></p>
 					</div>
 				</div>
+<div id="wufoo-zfcfd1b0o636au">
+Fill out my <a href="https://rdunphy.wufoo.com/forms/zfcfd1b0o636au">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
+<script type="text/javascript">var zfcfd1b0o636au;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'rdunphy',
+'formHash':'zfcfd1b0o636au',
+'autoResize':true,
+'height':'517',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { zfcfd1b0o636au = new WufooForm();zfcfd1b0o636au.initialize(options);zfcfd1b0o636au.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
 
 			</div>
 		</div>
